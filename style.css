@@ -1,0 +1,21 @@
+* {
+    margin: 0;
+    padding: 0;
+    }
+    .cont{
+        height: 100px;
+    }
+    .header{
+    background: green;
+    
+    }
+
+    h2
+    {
+    background: red;
+    }
+    
+    h3
+    {
+    background: blue;
+    }
